@@ -1,6 +1,6 @@
 # AI-Assisted Campaign Workflow: EADEM Le Chouchou
 
-**[View the full case study deck →](./EADEM_Le_Chouchou_Case_Study.pdf)**
+**[View the full case study deck →](https://docs.google.com/presentation/d/e/2PACX-1vQvqV3fll5JvbfZcii5BJRxB8_OJMrYcJpTqsYbatdbfql__XKcCJA8dWtrOOjnnw/pub?start=false&loop=false&delayms=3000)**
 
 A consumer sentiment analysis and campaign strategy for EADEM's Le Chouchou Lip Softening Balm — and a study in using AI as a research foundation while overriding it with primary research.
 
